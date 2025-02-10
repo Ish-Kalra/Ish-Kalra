@@ -54,17 +54,27 @@
 
 ## 🔗 My Projects
 
-**[TripUs](https://github.com/IshitaVashist/TripUs/blob/main/README.md)**  
-  🌍 A travel-based web application to explore destinations, manage trips, and book accommodations.  
-  [![View Repository](https://img.shields.io/badge/Repo-View%20TripUs-blue?style=flat-square)](https://github.com/IshitaVashist/TripUs.git)  
-**Languages:** HTML, CSS, ReactJS, NodeJS, Python, SQL
+**TripUs** 
+- 🌍 A travel-based web application to explore destinations, manage trips, and book accommodations.  
+  <div align="left">
+  <a href="https://github.com/Ish-Kalra/TripUs.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TripUS&logo=github&label=&color=181717&logoColor=red&labelColor=&style=for-the-badge" height="30" alt="Trips-US GitHub Repo" />
+  </a>
+</div>
+  
+Languages: HTML, CSS, ReactJS, NodeJS, Python, SQL
 
+--
 
-**[LuxCarServices](https://github.com/IshitaVashist/LuxCarServices/blob/main/README.md)**  
+**LuxuryCarServices**  
 
-  🚗 A luxury car rental service platform offering seamless booking and management.  
-  [![View Repository](https://img.shields.io/badge/Repo-View%20LuxCarServices-blue?style=flat-square)](https://github.com/IshitaVashist/LuxCarServices.git)  
-**Languages:** HTML,CSS,Tailwind,React.js,Node.js,Postgresql,TypeScript,JavaScript
+  - 🚗 A luxury car rental service platform offering seamless booking and management.  
+  <div align="left">
+  <a href="https://github.com/Ish-Kalra/TripUs.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Luxury Car Services&logo=github&label=&color=181717&logoColor=red&labelColor=&style=for-the-badge" height="30" alt="LuxuryCarServices GitHub Repo" />
+  </a>
+</div> 
+Languages: HTML,CSS,Tailwind,React.js,Node.js,Postgresql,TypeScript,JavaScript
 
 ---
 ## 💻 TechStack
@@ -110,6 +120,8 @@
   <a href="kalraish3@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
+
+  
   
   <a href="https://www.linkedin.com/in/ishkalra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
